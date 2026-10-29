@@ -1,0 +1,12 @@
+/* @theme doc */
+@import 'default';
+section { width: 794px; height: 1123px; }
+section { justify-content: flex-start; box-sizing: border-box; font-family: "PingFang TC", "Noto Sans TC", sans-serif; font-size: 15.5px; line-height: 1.65; padding: 44px 52px; color: #1a1a1a; }
+h1 { font-size: 26px; margin: 0 0 4px; }
+h2 { font-size: 18px; margin: 18px 0 6px; border-bottom: 1px solid #ccc; padding-bottom: 2px; }
+p, li { margin: 3px 0; }
+ul, ol { padding-left: 1.3em; margin: 4px 0; }
+a { color: #0b5cad; }
+em { color: #555; font-style: normal; }
+section { display: block !important; }
+section > * { max-width: 100%; }
